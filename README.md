@@ -1,5 +1,3 @@
-### Hi there! I'm Cherin 👋
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I'm focused on Backend Development but I'm also capable of handling Full-stack.\
@@ -23,14 +21,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<br/>
 
 ### 🗃 &nbsp;Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-<br/>
 
 ### 🧰 &nbsp;Version Control & Tools 
 
